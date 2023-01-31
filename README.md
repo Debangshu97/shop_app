@@ -1,6 +1,6 @@
 # shop_app
 
-A new Flutter project.
+A Flutter shop app where users can order their favorite products!
 
 ## Getting Started
 
